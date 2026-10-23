@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aptologia-arriendo-familiar.onrender.com/sitemap.xml
